@@ -23,7 +23,7 @@ class AboutScreen extends StatelessWidget {
     _info('Uso responsável', 'O app não toma decisões automaticamente. Alertas são sinais para análise humana; qualquer ação exige verificação por profissionais responsáveis.'),
     _info('Tecnologias', 'Flutter, Dart, Provider, fl_chart, HTTP, Open-Meteo e SharedPreferences.'),
     const SizedBox(height: 12),
-    const Text('Integrantes: preencher nomes completos e RMs da equipe antes da entrega.', style: TextStyle(fontSize: 11, color: AppTheme.muted)),
+    const Text('Pedro Mirabella Tonarque, Pedro Henrique Marques, Guilherme Mota Melo', style: TextStyle(fontSize: 11, color: AppTheme.muted)),
   ]));
   Widget _info(String title, String body) => Container(margin: const EdgeInsets.only(bottom: 10), padding: const EdgeInsets.all(15),
     decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(15)),
