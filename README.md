@@ -8,7 +8,7 @@ Apoiar gestores públicos no acompanhamento de indicadores territoriais por meio
 ## Integrantes
 | Nome | RM |
 |------|----|
-| Pedro Mirabella Tonarque | 563419 |
+| Pedro Mirabella Tonarque | RM 563419 |
 | Pedro Henrique Marques | RM 563054 |
 | Guilherme Mota Melo | RM 565887 |
 
